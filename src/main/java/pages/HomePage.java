@@ -60,7 +60,7 @@ public void loginHome(String country,String name)
 	UserName.sendKeys(name);
 	driver.hideKeyboard();
 	LetsShopButton.click();
-	System.out.println("THIS IS A ADDITIONAL/Test LINE");
+	System.out.println("End of code");
 	
 }
 
