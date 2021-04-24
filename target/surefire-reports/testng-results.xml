@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="219906" started-at="2021-04-24T10:31:24Z" finished-at="2021-04-24T10:35:03Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="219906" started-at="2021-04-24T10:31:24Z" finished-at="2021-04-24T10:35:03Z">
+      <class name="testcases.HomePageTest">
+        <test-method status="PASS" signature="cleanServer()[pri:0, instance:testcases.HomePageTest@4dfa3a9d]" name="cleanServer" is-config="true" duration-ms="44" started-at="2021-04-24T10:31:23Z" finished-at="2021-04-24T10:31:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanServer -->
+        <test-method status="PASS" signature="startAppiumServer()[pri:0, instance:testcases.HomePageTest@4dfa3a9d]" name="startAppiumServer" is-config="true" duration-ms="4012" started-at="2021-04-24T10:31:24Z" finished-at="2021-04-24T10:31:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startAppiumServer -->
+        <test-method status="PASS" signature="homeLogin(java.lang.String, java.lang.String)[pri:0, instance:testcases.HomePageTest@4dfa3a9d]" name="homeLogin" duration-ms="67849" started-at="2021-04-24T10:31:28Z" data-provider="value" finished-at="2021-04-24T10:32:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Argentina]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SOUMYA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeLogin -->
+        <test-method status="PASS" signature="stopAppiumServer()[pri:0, instance:testcases.HomePageTest@4dfa3a9d]" name="stopAppiumServer" is-config="true" duration-ms="126" started-at="2021-04-24T10:32:35Z" finished-at="2021-04-24T10:32:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopAppiumServer -->
+        <test-method status="PASS" signature="startAppiumServer()[pri:0, instance:testcases.HomePageTest@4dfa3a9d]" name="startAppiumServer" is-config="true" duration-ms="19316" started-at="2021-04-24T10:32:36Z" finished-at="2021-04-24T10:32:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startAppiumServer -->
+        <test-method status="PASS" signature="homeLogin(java.lang.String, java.lang.String)[pri:0, instance:testcases.HomePageTest@4dfa3a9d]" name="homeLogin" duration-ms="59429" started-at="2021-04-24T10:32:55Z" data-provider="value" finished-at="2021-04-24T10:33:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Australia]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[KUNU]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeLogin -->
+        <test-method status="PASS" signature="stopAppiumServer()[pri:0, instance:testcases.HomePageTest@4dfa3a9d]" name="stopAppiumServer" is-config="true" duration-ms="136" started-at="2021-04-24T10:33:54Z" finished-at="2021-04-24T10:33:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopAppiumServer -->
+        <test-method status="PASS" signature="startAppiumServer()[pri:0, instance:testcases.HomePageTest@4dfa3a9d]" name="startAppiumServer" is-config="true" duration-ms="19558" started-at="2021-04-24T10:33:54Z" finished-at="2021-04-24T10:34:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startAppiumServer -->
+        <test-method status="PASS" signature="verifyNameValidationMessage()[pri:0, instance:testcases.HomePageTest@4dfa3a9d]" name="verifyNameValidationMessage" duration-ms="49292" started-at="2021-04-24T10:34:14Z" finished-at="2021-04-24T10:35:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNameValidationMessage -->
+        <test-method status="PASS" signature="stopAppiumServer()[pri:0, instance:testcases.HomePageTest@4dfa3a9d]" name="stopAppiumServer" is-config="true" duration-ms="127" started-at="2021-04-24T10:35:03Z" finished-at="2021-04-24T10:35:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopAppiumServer -->
+      </class> <!-- testcases.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
