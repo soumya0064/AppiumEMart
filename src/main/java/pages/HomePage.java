@@ -62,6 +62,8 @@ public void loginHome(String country,String name)
 	LetsShopButton.click();
 	System.out.println("End of code");
 	System.out.println("HI");
+	System.out.println("Hello");
+
 	
 }
 
