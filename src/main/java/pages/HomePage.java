@@ -61,6 +61,7 @@ public void loginHome(String country,String name)
 	driver.hideKeyboard();
 	LetsShopButton.click();
 	System.out.println("End of code");
+	System.out.println("HI");
 	
 }
 
