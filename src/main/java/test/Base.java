@@ -82,7 +82,7 @@ public class Base {
 					e.printStackTrace();
 				}
 			} catch (Exception e) {
-				e.printStackTrace();
+				e.getMessage();
 			}
 			
 			return driver;
